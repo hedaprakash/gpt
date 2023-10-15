@@ -1,7 +1,7 @@
 import openai
 
 # Initialize the OpenAI API with your API key
-openai.api_key = 'sk-b0zIcjasdasdasdasdM8EfLCET3sdfsfsdfsdfsdfsdffsdf'
+openai.api_key = 'sk-b0zIcjasdfasdfasdfsdfsdfsdfsdffsdf'
 
 messages = [
     {"role": "system", "content": "You are a helpful assistant."},
